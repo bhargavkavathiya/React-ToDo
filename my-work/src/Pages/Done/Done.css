@@ -1,0 +1,19 @@
+
+.done_ParentDiv{
+    background-color: #A6E3E9; 
+    padding-top: 80px;  
+}
+.done_div{
+    background-color: #C4D7B2;
+    width: 60%;
+    margin: auto;
+}
+.done_mainRow:hover{
+    box-shadow:  0 3px 10px black;
+}
+.done_header{
+    position: absolute;
+    top: 50px;
+    left: 670px;
+    color: #0E8388;
+}

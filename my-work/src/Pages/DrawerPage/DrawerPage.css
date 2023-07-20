@@ -1,0 +1,16 @@
+
+.Appbar{
+    background-color: #30A2FF;
+}
+.Drawer{
+    width:0px;
+    background-color: #BE9FE1;
+}
+.List{
+    background-color: #C9B6E4;
+    color: black;
+}
+.List_wrapper{
+    background-color: #C9B6E4;
+    height: 100vh;
+}

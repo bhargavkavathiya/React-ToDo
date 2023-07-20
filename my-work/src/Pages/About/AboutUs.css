@@ -1,0 +1,44 @@
+.about_mainDiv{
+    display: flex;
+    /* background-color: yellow; */
+    height: 100vh;
+}
+.imgDiv{
+ position: absolute;
+ top: 0px;
+ right: 0px;
+ /* padding-left: 630px; */
+
+ background-color: black;
+}
+.imgDiv image{
+    width: 50px;
+}
+.aboutUs{
+    padding: 20px 0 0 300px;
+    /* background-color: red; */
+    height: 100px;
+}
+.Contact{
+    position:absolute;
+    top: 400px;
+    left: 130px;
+}
+.Email{
+    position:absolute;
+    top: 400px;
+    left: 300px;
+}
+.LinkedIn{
+    position:absolute;
+    top: 400px;
+    left: 500px;
+}
+.Summary{
+    position:absolute;
+    top: 190px;
+    left: 130px;
+}
+.Summary pre{
+    font-size: large;
+}

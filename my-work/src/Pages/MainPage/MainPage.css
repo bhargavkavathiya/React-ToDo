@@ -1,0 +1,79 @@
+
+.mainDiv{
+    
+    background-color: #A6E3E9;
+    height: 88vh;
+}
+
+.header h1{
+    padding-top: 15px;
+}
+.search{
+    justify-content: center;
+    display: flex;
+    height: 100px;
+}
+.searchComp1{
+    padding-top: 35px;
+    padding-left: 15px;
+}
+.searchComp1 input{
+    min-width: 500px;
+    height: 30px; 
+}
+.searchComp2{
+    padding-top: 35px;
+    padding-left: 15px;
+}
+.searchComp2 button{
+     height: 38px;
+    width: 70px; 
+}
+.searchComp2 button:hover{
+    background-color: green;
+    border-radius: 17px;
+}
+.searchComp3{
+    padding-top: 35px;
+    padding-left: 15px;
+}
+.searchComp3 button:hover{
+    background-color: red;
+    border-radius: 17px;
+}
+.tableDiv {
+   width: 50%;
+   margin: auto;
+}
+.tableDiv table{
+    width: 100%;
+    /* border: 2px solid black; */
+    background-color: #CBF1F5;
+
+}
+/* .tableDiv table tr{
+    border: 1px solid black;
+} */
+.delButton button{
+   background-color: #ff0d0dbf;
+
+   padding-left: 10px;
+}
+.delButton button:hover{
+    background-color: red;
+}
+.editButton button{
+    background-color: green;
+    
+}
+.btnDiv{
+    display: flex;
+    justify-content: right;
+}
+.taskCell{
+    width: 50%;
+}
+.mainRow:hover{
+    background-color:#E3FDFD;
+    box-shadow:  0 3px 10px black;
+}
